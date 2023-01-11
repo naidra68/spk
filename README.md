@@ -39,6 +39,7 @@ Temen-temen bisa clone git nya dengan memasukkan perintah dibawah ini ke dalam g
 ```bash
 git clone https://github.com/naidra/spk.git
 ```
-  
+Atau temen-temen yang belum tau mengenai git, bisa langsung download saja data nya dengan mengklik code lalu download zip.
+
 Terima kasih sudah berkunjung 😀, silahkan buat temen-temen untuk menggunakan project ini untuk tugas Sekolah/Kuliah/TA
 mohon untuk tidak menghilangkan copyright nya ya temen-temen. Terima Kasih. Kita ketemu lagi diproject selanjutnya 😉
