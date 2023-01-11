@@ -37,7 +37,7 @@ Bahasa yang digunakan untuk membuat project SPK
 Temen-temen bisa clone git nya dengan memasukkan perintah dibawah ini ke dalam git bash teman-teman
 
 ```bash
-git clone https://github.com/naidra/spk.git
+git clone https://github.com/naidra68/spk.git
 ```
 Atau temen-temen yang belum tau mengenai git, bisa langsung download saja data nya dengan mengklik code lalu download zip.
 
