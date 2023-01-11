@@ -1,0 +1,163 @@
+@media only screen and (max-width: 714px) {
+    header {
+        position: absolute;
+    }
+    .area_kiri {
+        width: 100%;
+    }
+
+    .area_kanan {
+        display: none;
+    }
+
+    #sidebar_button{
+        display: none;
+    }
+
+    .online {
+        display: none;
+    }
+    
+    .kiri {
+        margin-left: 320px;
+        position: relative;
+    }
+
+    .kanan {
+        display: none;
+    }
+
+    .suprise {
+        margin-top : 80px;
+        margin-left: 215px;
+        display: flex;
+        color: #ffffff;
+        font-size : 20px;
+
+    }
+
+    .sidebar {
+        width: 100%;
+        height: 630px;
+        position:absolute;
+    }
+
+    .sidebar a {
+        text-align: center;
+    }
+
+    .content {
+        padding-top: 680px;
+        min-height : 2200px;
+        margin-left: 0;
+    }
+
+    .button-logout {
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .button-logout a{
+        width: 80%;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .footer {
+        margin-left: 0;
+        font-size: 14px;
+    }
+    .panel-dashboard {
+        width: 89%;
+    }
+    .kiri-panel-dashboard h3 {
+        font-size: 16px;
+    }
+    .kiri-panel-dashboard p {
+        width: 240px;
+        font-size: 12px;
+        text-align: justify;
+    }
+    .kanan-panel-dashboard img {
+        width: 120px;
+        height: 120px;
+    }
+    .main-menu {
+        width: 92%;
+    }
+    .daftar-kriteria {
+        width: 44%;
+        min-height: 100px;
+    }
+    .daftar-kriteria h4 {
+        font-size: 16px;
+    }
+    .daftar-kriteria i {
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    .daftar-kriteria a {
+        margin-left: 80px;
+        font-size: 14px;
+    }
+    .nilai-kriteria {
+        width: 44%;
+        min-height: 100px;
+    }
+    .nilai-kriteria h4 {
+        font-size: 16px;
+    }
+    .nilai-kriteria i {
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    .nilai-kriteria a {
+        margin-left: 80px;
+        font-size: 14px;
+    }
+    .daftar-alternatif {
+        width: 44%;
+        min-height: 100px;
+    }
+    .daftar-alternatif h4 {
+        font-size: 16px;
+    }
+    .daftar-alternatif i {
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    .daftar-alternatif a {
+        margin-left: 80px;
+        font-size: 14px;
+    }
+    .nilai-alternatif {
+        width: 44%;
+        min-height: 100px;
+    }
+    .nilai-alternatif h4 {
+        font-size: 16px;
+    }
+    .nilai-alternatif i {
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    .nilai-alternatif a {
+        margin-left: 80px;
+        font-size: 14px;
+    }
+    .goals {
+        width: 92%;
+        min-height: 100px;
+    }
+    .goals h4 {
+        font-size: 16px;
+    }
+    .goals i {
+        margin-top: 0;
+        font-size: 30px;
+    }
+    .goals a {
+        margin-left: 20px;
+        font-size: 14px;
+    }
+
+}
