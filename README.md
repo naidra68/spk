@@ -1,9 +1,6 @@
 # Sistem Pendukung Keputusan (SPK)
-### Hello Teman-Teman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-Ketemu lagi nih sama saya "<b>Naidra68</b>", pada kesempatan kali ini saya akan membagikan project sederhana saya mengenai implementasi Sistem Pendukung Keputusan untuk menentukan kualitas perguruan tinggi terbaik yang ada di indonesia. Pada project yang saya buat ini, untuk contoh nya sudah ada 4 universitas yang telah saya terapkan didalam sistem. Lantas bagaimana untuk menentukan kualitas universitas nya? Nah, saya menggunakan metode Multi Attribute Utility Theory (MAUT) yang dimana metode ini memiliki penilaian sesuai kriteria dan bobot atribut.
-
-Mengenai Dokumentasi dari sistem ini, temen-temen bisa mendownload nya di bawah ini :
-https://drive.google.com/file/d/1B14_PC_DcDD2wcPav8L0jyZPBdYFcU2K/view
+### Hello Dunia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+Saya akan membagikan project sederhana saya mengenai implementasi <b>Sistem Pendukung Keputusan</b> untuk menentukan kualitas perguruan tinggi terbaik yang ada di indonesia. Contoh data nya hanya ada 4 universitas. Lantas bagaimana untuk menentukan kualitas universitas nya? Nah, saya menggunakan metode Multi Attribute Utility Theory (MAUT) yang dimana metode ini memiliki penilaian sesuai kriteria dan bobot atribut.
 
 Untuk kriteria penilaiannya ada 5 kriteria yang terdapat dihalaman daftar kriteria sebagai berikut :
 - Lokasi
@@ -26,20 +23,20 @@ Untuk atribut atau alternatif nya merupakan nama dari universitas yang akan di n
 Persyaratan yang diperlukan untuk menjalankan project SPK
 - <img src="https://i.imgur.com/C7WQ0wt.pngXAMPP" width="1.5%"> XAMPP ( <a href="https://www.apachefriends.org/download.html">Download<a/> )
 - <img src="https://i.imgur.com/AnZaG8D.gif" width="1.5%"> Visual Studio Code ( <a href="https://code.visualstudio.com">Download<a/> )
-- <img src="https://i.imgur.com/llrYYcX.gif" width="1.5%"> Browser ( Bisa gunakan : Google Chrome, Firefox, Edge, Opera, etc)
+- <img src="https://i.imgur.com/llrYYcX.gif" width="1.5%"> Browser ( Bisa gunakan : Google Chrome, Firefox, Brave, Opera, etc)
 
 Bahasa yang digunakan untuk membuat project SPK
 - HTML
-- CSS/SCSS
+- CSS/SCSS/SASS
 - PHP
 - MYSQL
 
-Temen-temen bisa clone git nya dengan memasukkan perintah dibawah ini ke dalam git bash teman-teman
+Clone git-nya dibawah ini 
 
 ```bash
 git clone https://github.com/naidra68/spk.git
 ```
-Atau temen-temen yang belum tau mengenai git, bisa langsung download saja data nya dengan mengklik code lalu download zip.
+Bagi teman-teman yang belum paham git, bisa langsung download saja data nya dengan cara mengklik code lalu download zip.
 
-Terima kasih sudah berkunjung 😀, silahkan buat temen-temen untuk menggunakan project ini untuk tugas Sekolah/Kuliah/TA
-mohon untuk tidak menghilangkan copyright nya ya temen-temen. Terima Kasih. Kita ketemu lagi diproject selanjutnya 😉
+Terima kasih sudah berkunjung 😀, silahkan buat teman-teman untuk menggunakan project ini untuk tugas Sekolah/Kuliah/TA
+mohon untuk tidak menghilangkan copyright nya ya teman-teman. Terima Kasih. 😉
